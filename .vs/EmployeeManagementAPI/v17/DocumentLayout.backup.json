@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|c:\\users\\srv\\source\\repos\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|c:\\users\\srv\\source\\repos\\employeemanagementapi\\employeemanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|c:\\users\\srv\\source\\repos\\employeemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|c:\\users\\srv\\source\\repos\\employeemanagementapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|c:\\users\\srv\\source\\repos\\employeemanagementapi\\services\\employeesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|solutionrelative:services\\employeesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|c:\\users\\srv\\source\\repos\\employeemanagementapi\\requestguidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|solutionrelative:requestguidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|c:\\users\\srv\\source\\repos\\employeemanagementapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|c:\\users\\srv\\source\\repos\\employeemanagementapi\\exception\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7733A20-B3B9-40BD-8E76-3BC631F79005}|EmployeeManagementAPI.csproj|solutionrelative:exception\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeManagementAPI",
+              "DocumentMoniker": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+              "RelativeToolTip": "EmployeeManagementAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T06:53:42.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T06:19:03.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestGuidMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\RequestGuidMiddleware.cs",
+              "RelativeDocumentMoniker": "RequestGuidMiddleware.cs",
+              "ToolTip": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\RequestGuidMiddleware.cs",
+              "RelativeToolTip": "RequestGuidMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:41:50.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:31:55.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeSevice.cs",
+              "DocumentMoniker": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Services\\EmployeeSevice.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeSevice.cs",
+              "ToolTip": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Services\\EmployeeSevice.cs",
+              "RelativeToolTip": "Services\\EmployeeSevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:51:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:50:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:50:09.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Exception\\Exception.cs",
+              "RelativeDocumentMoniker": "Exception\\Exception.cs",
+              "ToolTip": "C:\\Users\\srv\\source\\repos\\EmployeeManagementAPI\\Exception\\Exception.cs",
+              "RelativeToolTip": "Exception\\Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:55:51.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
